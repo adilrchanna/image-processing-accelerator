@@ -122,7 +122,3 @@ Below is a comparison of the input vs. processed output.
 This project is open-source and available under the [MIT License](LICENSE).
 
 **Author:** Adil Rafiq
-
-```
-
-```
