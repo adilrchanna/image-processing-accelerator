@@ -22,10 +22,6 @@
 *.dylib
 *.dll
 
-# Fortran module files
-*.mod
-*.smod
-
 # Compiled Static libraries
 *.lai
 *.la
@@ -36,6 +32,12 @@
 *.exe
 *.out
 *.app
+ha
 
-# debug information files
-*.dwo
+# Project Specific
+output_*.bmp
+
+# OS & Editor Junk
+.DS_Store
+.vscode/
+*.swp
